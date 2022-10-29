@@ -22,13 +22,13 @@
 * `apt update`
 * `apt install git curl -y`
 * `git clone git://github.com/ax.ontor231/Unfollow01.git`
-* `cd unfollow-plus`
+* `cd Unfollow01
  
-#### > Run : `bash unfollower.sh`
+#### > Run : `bash Unfollow01`
  
 ## Single Command :
 ```
-apt update ; apt install git curl -y ; git clone git://github.com/ax.ontor231/unfollow-plus.git ; cd unfollow-plus ; bash unfollower.sh
+apt update ; apt install git curl -y ; git clone git://github.com/ax.ontor231/Unfollow02.git ; cd Unfollow01 ; bash Unfollower01.sh
 ```
 <br>
 <p align="center">
