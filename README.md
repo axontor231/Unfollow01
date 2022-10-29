@@ -21,7 +21,7 @@
  
 * `apt update`
 * `apt install git curl -y`
-* `git clone git://github.com/ax.ontor231/unfollow-plus.git`
+* `git clone git://github.com/ax.ontor231/Unfollow01.git`
 * `cd unfollow-plus`
  
 #### > Run : `bash unfollower.sh`
